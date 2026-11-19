@@ -74170,5 +74170,12 @@
     "author": "s-ed",
     "description": "Show your own display names for vaults in the vault switcher, the vault name label and the window title. Folders and paths are not changed. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "s-ed/obsidian-vault-aliases"
+  },
+  {
+    "id": "notional",
+    "name": "Notional",
+    "author": "Willy Brauner",
+    "description": "Notion-like pages and databases: folder pages, select chips with colors, icons, board and timeline views, side peek.",
+    "repo": "willybrauner/notional"
   }
 ]
